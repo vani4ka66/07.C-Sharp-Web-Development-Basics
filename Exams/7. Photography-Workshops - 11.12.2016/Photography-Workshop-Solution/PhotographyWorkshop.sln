@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.Models", "PhotographyWorkshop.Models\PhotographyWorkshop.Models.csproj", "{BEE2EDC3-BD32-4A9D-AE6A-F0D43E0B5996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.Data", "PhotographyWorkshop.Data\PhotographyWorkshop.Data.csproj", "{E5A0E267-D30D-4513-A824-6B1718E97DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ImportJSON", "01.ImportJSON\01.ImportJSON.csproj", "{85BE3B72-E2BE-43A9-9E2E-7CA1C93CD66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ImportXML", "02.ImportXML\02.ImportXML.csproj", "{7655E249-239E-4F00-865A-495238B2A5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExportJSON", "03.ExportJSON\03.ExportJSON.csproj", "{DAA153A5-9DA9-4E74-B6CA-D6270D78684C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ExportXML", "04.ExportXML\04.ExportXML.csproj", "{E46D0541-21D3-4C66-B093-A2F7CA055C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.Utilities", "PhotographyWorkshop.Utilities\PhotographyWorkshop.Utilities.csproj", "{4BF2FC0E-90D2-4654-B00A-ACE4AF877D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE2EDC3-BD32-4A9D-AE6A-F0D43E0B5996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE2EDC3-BD32-4A9D-AE6A-F0D43E0B5996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE2EDC3-BD32-4A9D-AE6A-F0D43E0B5996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE2EDC3-BD32-4A9D-AE6A-F0D43E0B5996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A0E267-D30D-4513-A824-6B1718E97DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A0E267-D30D-4513-A824-6B1718E97DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A0E267-D30D-4513-A824-6B1718E97DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A0E267-D30D-4513-A824-6B1718E97DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85BE3B72-E2BE-43A9-9E2E-7CA1C93CD66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BE3B72-E2BE-43A9-9E2E-7CA1C93CD66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BE3B72-E2BE-43A9-9E2E-7CA1C93CD66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BE3B72-E2BE-43A9-9E2E-7CA1C93CD66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7655E249-239E-4F00-865A-495238B2A5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7655E249-239E-4F00-865A-495238B2A5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7655E249-239E-4F00-865A-495238B2A5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7655E249-239E-4F00-865A-495238B2A5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA153A5-9DA9-4E74-B6CA-D6270D78684C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA153A5-9DA9-4E74-B6CA-D6270D78684C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA153A5-9DA9-4E74-B6CA-D6270D78684C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA153A5-9DA9-4E74-B6CA-D6270D78684C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46D0541-21D3-4C66-B093-A2F7CA055C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46D0541-21D3-4C66-B093-A2F7CA055C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46D0541-21D3-4C66-B093-A2F7CA055C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46D0541-21D3-4C66-B093-A2F7CA055C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF2FC0E-90D2-4654-B00A-ACE4AF877D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF2FC0E-90D2-4654-B00A-ACE4AF877D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF2FC0E-90D2-4654-B00A-ACE4AF877D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF2FC0E-90D2-4654-B00A-ACE4AF877D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
