@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\IssuTracker_App.exe.config
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\obj\Debug\IssuTracker_App.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\IssuTracker_App.exe
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\IssuTracker_App.pdb
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\SimpleHttpServer.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\SimpleMVC.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\SimpleHttpServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\SimpleMVC.pdb
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\obj\Debug\IssuTracker_App.exe
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\IssuTracker_App\obj\Debug\IssuTracker_App.pdb

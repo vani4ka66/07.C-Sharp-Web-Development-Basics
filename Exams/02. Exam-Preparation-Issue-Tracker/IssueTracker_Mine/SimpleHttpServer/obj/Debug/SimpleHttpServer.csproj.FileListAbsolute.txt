@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

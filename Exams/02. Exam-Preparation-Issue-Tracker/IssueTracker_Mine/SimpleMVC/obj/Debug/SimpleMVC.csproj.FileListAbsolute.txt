@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\bin\Debug\SimpleMVC.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\bin\Debug\SimpleMVC.pdb
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\obj\Debug\SimpleMVC.dll
+c:\users\user\documents\visual studio 2015\Projects\IssueTracker_Mine\SimpleMVC\obj\Debug\SimpleMVC.pdb
