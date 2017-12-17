@@ -27,6 +27,5 @@ namespace SoftStore.Models
         public DateTime ReleaseDate { get; set; }
 
         public virtual ICollection<User> Owners { get; set; }
-
     }
 }
